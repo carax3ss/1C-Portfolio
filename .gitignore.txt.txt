@@ -1,0 +1,13 @@
+# Файлы баз данных 1С
+*.1CD
+*.dt
+
+# Служебные файлы 1С
+*.log
+*.cas
+*.txt
+
+# Системный мусор Windows/Mac
+Thumbs.db
+.DS_Store
+.vscode/
